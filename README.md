@@ -1,3 +1,6 @@
+cu991culum_v1743.sh 
+
+
 Prezentare a Scriptului
 Limba Română
 Prezentare Generală
