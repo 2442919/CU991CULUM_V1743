@@ -53,6 +53,7 @@ PDF and DOCX Export: To export the CV to PDF and DOCX formats, you need to have 
 Additional Requirements: Ensure that you have write permissions in the directory where you run the script to save the generated files.
 
 cu991culum_v1723.py
+
 Acum, pentru a crea un executabil .exe din acest script Python, urmați pașii de mai jos:
 Instalați Python dacă nu este deja instalat.
 Instalați pyinstaller:
